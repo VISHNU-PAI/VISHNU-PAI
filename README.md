@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Biju</h1>
 <h3 align="center">Frontend Developer | React • TypeScript • JavaScript</h3>
----
 
 ### 🚀 About Me
 
@@ -10,7 +9,6 @@
 - 💡 I build real-world projects – blogs, social platforms, dashboard UIs, and interactive tools  
 - 🧠 I love exploring **performance optimization**, **clean architecture**, and **UI UX improvements**
 
----
 
 ### 🛠 Tech Stack
 
@@ -24,7 +22,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux" />
 </div>
 
----
 
 ### 📌 Featured Projects
 
@@ -40,7 +37,6 @@ Minimal, futuristic, dark-themed blog inspired by x.ai
 A collection of JS concepts: closures, promises, event loop, call stack  
 👉 *Coming soon*
 
----
 
 ### 📊 GitHub Stats
 
@@ -49,7 +45,6 @@ A collection of JS concepts: closures, promises, event loop, call stack
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-biju&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ### 🤝 Connect With Me
 <p>
