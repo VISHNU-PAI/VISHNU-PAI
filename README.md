@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Biju</h1>
 <h3 align="center">Frontend Developer | React • TypeScript • JavaScript</h3>
-
-<p align="center">
-  <a href="https://github.com/vishnu-biju?tab=followers">
-    <img src="https://img.shields.io/github/followers/vishnu-biju?style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=vishnu-biju&style=for-the-badge" />
-</p>
-
 ---
 
 ### 🚀 About Me
