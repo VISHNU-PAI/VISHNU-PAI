@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working as a **Frontend Developer** at a startup  
 - 🌱 I’m mastering **Core JavaScript**, **System Design for Frontend**, and advanced **React patterns**  
-- 🎯 Career goal: **₹15 LPA+ in 1 year**  
 - 💡 I build real-world projects – blogs, social platforms, dashboard UIs, and interactive tools  
 - 🧠 I love exploring **performance optimization**, **clean architecture**, and **UI UX improvements**
 
